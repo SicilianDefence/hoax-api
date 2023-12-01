@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+tensorflow
+keras
+gensim
+flask
+flask-restful
+pickle-mixin
